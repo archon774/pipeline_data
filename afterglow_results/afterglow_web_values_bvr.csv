@@ -1,45 +1,45 @@
 file,Afterglow web zero_point,Afterglow web err
-Carina Nebula V_13835391_V_000.fits,21.021,0.013
-M16 V_13900241_V_000.fits,21.21,0.006
-M8 V_13900245_V_000.fits,20.869,0.011
-NGC 5128 V_13909242_V_000.fits,21.155,0.008
-NSV 2849 1227_13413151_V_000.fits,21.375,0.024
-NSV 2849_13623547_V_000.fits,21.404,0.034
-NSV 3281_13623549_V_000.fits,19.302,0.017
-cats paw rgb_13873842_V_001.fits,21.28,0.009
-messier 20_V_13690324_V_000.fits,21.194,0.007
-messier 31 V_13111962_V_000.fits,21.631,0.024
-neptune_lab1_V_13497538_V_000.fits,18.375,0.043
-ngc 2070_V_13690320_V_000.fits,21.365,0.035
-ngc 2489_14014424_Halpha_009.fits,17.671,0.012
-ngc 253 - Lab 4V_13248259_V_002.fits,21.586,0.015
-ngc 2997_13904672_V_001.fits,21.339,0.015
-ngc 2997_13936561_V_003.fits,21.292,0.011
-ngc 2997_13980096_V_006.fits,21.44,0.01
-ngc 2997_V_13690309_V_000.fits,21.445,0.013
-ngc 3372_13917131_V_005.fits,21.014,0.013
-ngc 3628_13891398_V_001.fits,20.075,0.01
-ngc 3628_13906571_V_001.fits,20.524,0.019
-ngc 5128_13902003_V_001.fits,20.745,0.013
-ngc 5286_13878287_V_013.fits,20.713,0.016
-ngc 6302_13921532_V_008.fits,21.19,0.004
-ngc 6302_13948013_V_014.fits,20.801,0.01
-ngc 6334_13910965_V_032.fits,21.082,0.009
-ngc 6634 V_13925958_V_001.fits,21.091,0.008
-ngc 7023_14023073_V_011.fits,21.445,0.013
-ngc 7293_13934854_V_009.fits,21.038,0.01
-ngc3628_13869515_V_001.fits,20.93,0.407
-ngc_3628_hamburer_test_12499172_V_0003_reduced.fits,21.052,0.016
-sombrero galaxy_13909237_V_015.fits,21.292,0.041
-uranus_lab1v4_V_13497537_V_000.fits,17.996,0.166
-NGC1846_13895803_R_000.fits,21.06,0.015
-NGC1982_13873890_R_002.fits,19.407,0.02
-NGC5946_13873866_R_000.fits,19.352,0.012
-andromeda galaxy_13690442_R_001.fits,20.928,0.01
-messier 90 galaxy red_13969770_R_000.fits,21.356,0.074
-ngc 6334_13910965_R_033.fits,21.448,0.006
-ngc 7293_test_13909269_R_005.fits,21.407,0.01
-ngc7048_13880046_R_000.fits,21.546,0.006
-ngc 5128 rgb_13882669_B_001.fits,21.046,0.01
-ngc 5128_13909251_B_002.fits,21.147,0.012
-ngc_5286_12158952_B_0016_reduced.fits,18.047,0.023
+carina_nebula_v_000.fits,21.021,0.013
+m16_nebula_v_000.fits,21.21,0.006
+m8_nebula_v_000.fits,20.869,0.011
+ngc5128_galaxy_v_001.fits,21.155,0.008
+nsv2849_star_v_000.fits,21.375,0.024
+nsv2849_star_v_001.fits,21.404,0.034
+nsv3281_star_v_000.fits,19.302,0.017
+ngc6334_nebula_v_000.fits,21.28,0.009
+m20_nebula_v_000.fits,21.194,0.007
+m31_galaxy_v_000.fits,21.631,0.024
+neptune_planet_v_000.fits,18.375,0.043
+ngc2070_nebula_v_000.fits,21.365,0.035
+ngc2489_cluster_halpha_000.fits,17.671,0.012
+ngc253_galaxy_v_000.fits,21.586,0.015
+ngc2997_galaxy_v_001.fits,21.339,0.015
+ngc2997_galaxy_v_002.fits,21.292,0.011
+ngc2997_galaxy_v_003.fits,21.44,0.01
+ngc2997_galaxy_v_000.fits,21.445,0.013
+ngc3372_nebula_v_000.fits,21.014,0.013
+ngc3628_galaxy_v_001.fits,20.075,0.01
+ngc3628_galaxy_v_002.fits,20.524,0.019
+ngc5128_galaxy_v_000.fits,20.745,0.013
+ngc5286_globular_v_000.fits,20.713,0.016
+ngc6302_pn_v_000.fits,21.19,0.004
+ngc6302_pn_v_001.fits,20.801,0.01
+ngc6334_nebula_v_001.fits,21.082,0.009
+ngc6634_cluster_v_000.fits,21.091,0.008
+ngc7023_nebula_v_000.fits,21.445,0.013
+ngc7293_pn_v_000.fits,21.038,0.01
+ngc3628_galaxy_v_000.fits,20.93,0.407
+ngc3628_galaxy_v_reduced_000.fits,21.052,0.016
+m104_galaxy_v_000.fits,21.292,0.041
+uranus_planet_v_000.fits,17.996,0.166
+ngc1846_cluster_r_000.fits,21.06,0.015
+ngc1982_nebula_r_000.fits,19.407,0.02
+ngc5946_galaxy_r_000.fits,19.352,0.012
+m31_galaxy_r_000.fits,20.928,0.01
+m90_galaxy_r_000.fits,21.356,0.074
+ngc6334_nebula_r_000.fits,21.448,0.006
+ngc7293_pn_r_000.fits,21.407,0.01
+ngc7048_pn_r_000.fits,21.546,0.006
+ngc5128_galaxy_b_000.fits,21.046,0.01
+ngc5128_galaxy_b_001.fits,21.147,0.012
+ngc5286_globular_b_000.fits,18.047,0.023
